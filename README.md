@@ -44,3 +44,9 @@ Questions Answered Within
    - 2.) Which establishments in London have a Rating Value greater than or equal to 4? : There are 33 establishments in                London that have a RatingValue greater than or equal to 4.
    - 3.) What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new                  restaurant added, "Penang Flavours"? : Volunteer, Atlantic Fish Bar, Lumbini Grocery Ltd T/A Al-Iman, Iceland and             Howe and Co Fish and Chips - Van 17. 
    - 4.) How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to              lowest, and print out the top ten local authority areas. : There are 55 establishments in the Local Authority area            with a hygiene score of 0.
+
+
+
+## References
+UK Food Standards AgencyLinks to an external site. (2022). UK food hygiene rating data API. https://ratings.food.gov.uk/open-data/en-GBLinks to an external site.. Contains public sector information licensed under the Open Government Licence v3.0Links to an external site.
+Accessed Sept 9, 2022 and Sept 12, 2022 with the establishment settings as follows: longitude=51.5072, latitude=-0.1276, maxdistancelimit=4567, pagesize=10000, sortoptionkey=distance, pagenumber=(1,2,3,4,5,6,7,8).
